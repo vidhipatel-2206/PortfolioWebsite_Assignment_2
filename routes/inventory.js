@@ -1,4 +1,5 @@
 /*
+File name- inventory.js
 Student Name - Vidhi Patel
 Student ID - 301290703
 Date - 21-10-2022
